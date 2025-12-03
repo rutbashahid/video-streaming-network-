@@ -88,6 +88,4 @@ Video_Streaming_Network.pkt
 
 README.md
 
-screenshots/
-
-project report (optional)
+project report
